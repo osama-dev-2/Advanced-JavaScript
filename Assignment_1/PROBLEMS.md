@@ -1,7 +1,5 @@
 Advanced JavaScript Assignment1
 
-المهام البرمجية المطلوبة:
-
 1. customMap — بناء بديل لfunction map
 
 فكرة الحل:
